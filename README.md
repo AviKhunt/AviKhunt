@@ -131,14 +131,6 @@ I'm a Computer Science student with hands-on experience building **production-gr
 
 ---
 
-## 📊 GitHub Stats
-
-![Avi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviKhunt&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AviKhunt&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/avikhunt](https://linkedin.com/in/avikhunt)
