@@ -104,7 +104,7 @@ I'm a Computer Science student with hands-on experience building **production-gr
 ---
 
 ### 📚 Instructional Student Assistant — CSULB
-**Feb 2024 – Dec 2025**
+**Feb 2024 – Present**
 
 - Led tutoring sessions for **50+ students** on data structures, algorithms, and best practices
 - Created automated grading scripts, reducing evaluation time by **40%** for 150+ students/semester
